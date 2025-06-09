@@ -1,0 +1,10 @@
+heart diseases prediction:
+1. Hue is HEART DISEASES
+2.“The dataset contains X rows and Y columns related to heart disease diagnosis. It includes both numerical and categorical variables such as age, cholesterol, sex, chest pain type, etc.”
+3.“There are no missing values, and data types are correctly formatted.
+4.“The target variable is imbalanced, with 70% in class 0. Resampling may be needed.”
+5.Age: Mean age = 54.3, with most patients between 45–60.
+6.Cholesterol: Right-skewed distribution, with outliers > 400 mg/dL
+7.Age and cholesterol are normally distributed, though cholesterol has significant outliers.”
+8.Chest pain type (cp) has a strong positive correlation with the presence of heart disease. thalach and oldpeak are negatively correlated with heart disease. No multicollinearity observed.”
+9.No need for heavy data cleaning. Dataset is ready for feature scaling and model building.
